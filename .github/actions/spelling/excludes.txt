@@ -75,4 +75,4 @@ ignore$
 
 # Added by Cunxin
 ^\.github/workflows/spell_check.yml
-custom_dictionary.txt
+^\.github/actions/spell_check/custom_dictionary.txt
